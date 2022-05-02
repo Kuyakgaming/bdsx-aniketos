@@ -8,7 +8,7 @@
 	"modules": {
 		// Auto generated
 	},
-	"whitelist": [],
+	"whitelist": [], // example "address" | "GamerTag" | "123456789" | "xuid"
 	"whitelist-ops": true,
 	"console-log-suspect": true
 }
